@@ -20,8 +20,8 @@
     <div class="jiugongge">
       <ul>
    
-        <li class="jgg_li" @click="add()">
-          <a href="#">
+        <li class="jgg_li">
+          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=78">
             <div class="jgg_img">
               <img src="../static/img/snqx.png" alt="tt">
             </div>
@@ -29,8 +29,8 @@
           </a>
         </li>
 
-        <li class="jgg_li" @click="add()">
-          <a href="#">
+        <li class="jgg_li" >
+          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=79">
             <div class="jgg_img">
               <img src="../static/img/jdqx.png" alt="tt">
             </div>
@@ -38,8 +38,8 @@
           </a>
         </li> 
 
-        <li class="jgg_li"  @click="add()">
-          <a href="#">
+        <li class="jgg_li"  >
+          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=80">
             <div class="jgg_img">
               <img src="../static/img/jdwx.png" alt="tt">
             </div>
@@ -47,8 +47,8 @@
           </a>
         </li> 
 
-        <li class="jgg_li" @click="add()">
-          <a href="#">
+        <li class="jgg_li" >
+          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=82">
             <div class="jgg_img">
               <img src="../static/img/jzbj.png" alt="tt">
             </div>
@@ -56,8 +56,8 @@
           </a>
         </li> 
         
-        <li class="jgg_li" @click="add()">
-          <a href="#">
+        <li class="jgg_li">
+          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=81">
             <div class="jgg_img">
               <img src="../static/img/zyw.png" alt="tt">
             </div>
@@ -116,8 +116,8 @@
               <img src="../static/img/yfwyouyi.png" alt="22">
             </a>            
           </div>
-          <div class="inner3-right-bottom" @click="add()">
-            <a href="#">
+          <div class="inner3-right-bottom">
+            <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=81">
               <img src="../static/img/yfwyouer.png" alt="22">
             </a>            
           </div>

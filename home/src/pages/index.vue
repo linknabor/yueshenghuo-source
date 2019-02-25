@@ -21,7 +21,7 @@
       <ul>
    
         <li class="jgg_li">
-          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=78">
+          <a href="https://sugs.suning.com/zaXfO9Rt">
             <div class="jgg_img">
               <img src="../static/img/snqx.png" alt="tt">
             </div>
@@ -30,7 +30,7 @@
         </li>
 
         <li class="jgg_li" >
-          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=79">
+          <a href="https://sugs.suning.com/zaXc2Z9M">
             <div class="jgg_img">
               <img src="../static/img/jdqx.png" alt="tt">
             </div>
@@ -39,7 +39,7 @@
         </li> 
 
         <li class="jgg_li"  >
-          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=80">
+          <a href="https://sugs.suning.com/zaVEJl3O">
             <div class="jgg_img">
               <img src="../static/img/jdwx.png" alt="tt">
             </div>
@@ -48,7 +48,7 @@
         </li> 
 
         <li class="jgg_li" >
-          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=82">
+          <a href="https://sugs.suning.com/zaW84LHE ">
             <div class="jgg_img">
               <img src="../static/img/jzbj.png" alt="tt">
             </div>
@@ -105,10 +105,10 @@
     </div>
     <div class="box3">
       <div class="inner3">
-        <div class="inner3-left fl">
-          <router-link to="/baojie">
+        <div class="inner3-left fl" @click="add()">
+          <!-- <router-link :to="{path:'/baojie'}" > -->
             <img src="../static/img/yfwzuoyi.png" alt="22">
-          </router-link>
+          <!-- </router-link> -->
         </div>
         <div class="inner3-right fr">
           <div class="inner3-right-top" @click="add()">
@@ -256,7 +256,7 @@ export default {
         // vm.receiveData.getData(vm,url1,'data1',function(){
           
         // })
-        //
+       
   },
   methods: {
     add() {

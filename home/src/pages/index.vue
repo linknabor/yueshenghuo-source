@@ -19,13 +19,12 @@
     </swiper>
     <div class="jiugongge">
       <ul>
-   
         <li class="jgg_li">
-          <a href="https://sugs.suning.com/zaXfO9Rt">
+          <a href="https://w.url.cn/s/AtroAQY">
             <div class="jgg_img">
-              <img src="../static/img/snqx.png" alt="tt">
+              <img src="../static/img/Dlogo.png" alt="tt">
             </div>
-            <span>空气治理</span>
+            <span>随心订</span>
           </a>
         </li>
 
@@ -36,7 +35,7 @@
             </div>
             <span>家电清洗</span>
           </a>
-        </li> 
+        </li>
 
         <li class="jgg_li"  >
           <a href="https://sugs.suning.com/zaVEJl3O">
@@ -56,14 +55,16 @@
           </a>
         </li> 
         
-        <li class="jgg_li">
-          <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=81">
+         <li class="jgg_li">
+          <a href="https://sugs.suning.com/zaXfO9Rt">
             <div class="jgg_img">
-              <img src="../static/img/zyw.png" alt="tt">
+              <img src="../static/img/snqx.png" alt="tt">
             </div>
-            <span>衣物洗护</span>
+            <span>空气治理</span>
           </a>
         </li>
+
+
 
         <li class="jgg_li">
           <a href="https://wx.tuhu.cn">
@@ -83,14 +84,15 @@
           </a>
         </li>
 
-        <li class="jgg_li" @click="add()">
+        <li class="jgg_li"  @click="add()">
           <a href="#">
             <div class="jgg_img">
               <img src="../static/img/zfw.png" alt="tt">
             </div>
             <span>其他服务</span>
           </a>
-        </li>        
+        </li>
+
       </ul>
     </div>
 
@@ -105,19 +107,17 @@
     </div>
     <div class="box3">
       <div class="inner3">
-        <div class="inner3-left fl" @click="add()">
-          <!-- <router-link :to="{path:'/baojie'}" > -->
+        <a class="inner3-left fl" href="https://sugs.suning.com/zaW84LHE">
             <img src="../static/img/yfwzuoyi.png" alt="22">
-          <!-- </router-link> -->
-        </div>
+        </a>
         <div class="inner3-right fr">
           <div class="inner3-right-top" @click="add()">
-            <a href="#">
+            <a href="javescript:viod">
               <img src="../static/img/yfwyouyi.png" alt="22">
             </a>            
           </div>
-          <div class="inner3-right-bottom">
-            <a href="http://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=81">
+          <div class="inner3-right-bottom" @click="add()">
+            <a href="javescript:viod">
               <img src="../static/img/yfwyouer.png" alt="22">
             </a>            
           </div>
@@ -125,51 +125,6 @@
       </div>
     </div>
     <div class="height"></div>
-
-    <!-- <footer class="footer">
-        <ul>
-          <li >
-            <a href="http://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
-              <div class="icon">
-                <div class="icon-box">
-                  <img src="../static/imgs/fuwu-check.png"  alt="tt">
-                </div>             
-              </div>
-              <span>悦服务</span>
-            </a>
-          </li>
-          <li >
-            <a href="http://www.gm4life.cn/yueshop/index.php?s=/wap">
-              <div class="icon">
-                <div class="icon-box">
-                  <img src="../static/imgs/shangc.png" alt="tt">
-                </div>              
-              </div>
-              <span>悦商城</span>
-            </a>
-          </li>
-          <li >
-            <a href="http://wuye.gm4life.cn/wangdu/weixin/wuye/index.html?state=123#/">
-              <div class="icon">
-                <div class="icon-box">
-                  <img src="../static/imgs/shequ.png"  alt="tt">
-                </div>              
-              </div>
-              <span>悦社区</span>
-            </a>
-          </li>
-          <li >
-            <a href="http://www.gm4life.cn/yueshop/wap/member.html">
-              <div class="icon">
-                <div class="icon-box">
-                  <img src="../static/imgs/yez.png"  alt="tt">
-                </div>             
-              </div>
-              <span>用户中心</span>
-            </a>
-          </li>
-        </ul>
- </footer> -->
 
 
 <div class="fixed bottom">

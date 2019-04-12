@@ -24,12 +24,12 @@
             <div class="jgg_img">
               <img src="../static/img/Dlogo.png" alt="tt">
             </div>
-            <span>随心订</span>
+            <span>光明随心订</span>
           </a>
         </li>
 
         <li class="jgg_li" >
-          <a href="https://sugs.suning.com/zaXc2Z9M">
+          <a href="http://www.gm4life.cn/yueshop/wap/shop/index?shop_id=34">
             <div class="jgg_img">
               <img src="../static/img/jdqx.png" alt="tt">
             </div>

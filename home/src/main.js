@@ -42,7 +42,7 @@ var axiosInstance = axios.create({
       'Accept': 'application/json',
 
   },
-  baseURL: 'http://www.gm4life.cn/guangming/wechat/hexie/wechat/',
+  baseURL: 'https://www.gm4life.cn/guangming/wechat/hexie/wechat/',
 
   withCredentials:true,
   transformResponse: [function (data) {//数据转换

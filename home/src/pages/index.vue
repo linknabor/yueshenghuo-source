@@ -29,7 +29,7 @@
         </li>
 
         <li class="jgg_li" >
-          <a href="http://www.gm4life.cn/yueshop/wap/shop/index?shop_id=34">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=34">
             <div class="jgg_img">
               <img src="../static/img/jdqx.png" alt="tt">
             </div>
@@ -38,7 +38,7 @@
         </li>
 
         <li class="jgg_li"  >
-          <a href="https://sugs.suning.com/zaVEJl3O">
+          <a href="https://sugs.suning.com/ADtzkFPP">
             <div class="jgg_img">
               <img src="../static/img/jdwx.png" alt="tt">
             </div>
@@ -56,7 +56,7 @@
         </li> 
         
          <li class="jgg_li">
-          <a href="https://sugs.suning.com/zaXfO9Rt">
+          <a href="https://sugs.suning.com/ADtxnSX0">
             <div class="jgg_img">
               <img src="../static/img/snqx.png" alt="tt">
             </div>
@@ -111,13 +111,13 @@
             <img src="../static/img/yfwzuoyi.png" alt="22">
         </a>
         <div class="inner3-right fr">
-          <div class="inner3-right-top" @click="add()">
-            <a href="javescript:viod">
+          <div class="inner3-right-top" >
+            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=34">
               <img src="../static/img/yfwyouyi.png" alt="22">
             </a>            
           </div>
           <div class="inner3-right-bottom" @click="add()">
-            <a href="javescript:viod">
+            <a href="javascript:viod">
               <img src="../static/img/yfwyouer.png" alt="22">
             </a>            
           </div>
@@ -131,7 +131,7 @@
 	<div class="distribution-tip" id="distribution-tip" style="display: none;"></div>
 	<dl class="sub-nav nav-b5">
 		<dd id="buttom_home">
-			<a href="http://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
+			<a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
 				<div class="nav-b5-relative">
 					<img src="../static/imgs/fuwu-check.png"/>
 					<span>悦服务</span>
@@ -139,7 +139,7 @@
 			</a>
 		</dd>
 		<dd id="buttom_classify">
-			<a href="http://www.gm4life.cn/yueshop/index.php?s=/wap">
+			<a href="https://www.gm4life.cn/yueshop/index.php?s=/wap">
 				<div class="nav-b5-relative">
 					<img src="../static/imgs/shangc.png"/>
 					<span>悦商城</span>
@@ -155,7 +155,7 @@
 			</a>
 		</dd>
     	<dd id="buttom_classify">
-			<a href="http://www.gm4life.cn/yueshop/wap/member.html">
+			<a href="https://www.gm4life.cn/yueshop/wap/member.html">
 				<div class="nav-b5-relative">
 					<img src="../static/imgs/yez.png"/>
 					<span>用户中心</span>

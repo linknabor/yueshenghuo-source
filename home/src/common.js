@@ -1,9 +1,9 @@
 import wx from 'weixin-js-sdk';
 var MasterConfig = function() {
     var t = {
-        baseUrl: "http://www.gm4life.cn/guangming/wechat/hexie/wechat/",
-        basePageUrl:"http://www.gm4life.cn/guangming/weixin/",
-        payPageFolder:"http://www.gm4life.cn/pay/",
+        baseUrl: "https://www.gm4life.cn/guangming/wechat/hexie/wechat/",
+        basePageUrl:"https://www.gm4life.cn/guangming/weixin/",
+        payPageFolder:"https://www.gm4life.cn/pay/",
         payPageSuffix:"wangdu",
         appId: "wx5b1a7c252c3cbc26",
 
@@ -35,7 +35,7 @@ var Config = function() {
             no_goods: "更多新品正在陆续推出..."
         },
         user_info: {
-            avatar: "http://www.gm4life.cn/guangming/weixin/static/images/logo.jpg",
+            avatar: "https://www.gm4life.cn/guangming/weixin/static/images/logo.jpg",
             nickname: "游客",
             levelname: "普通会员"
         },
@@ -45,7 +45,7 @@ var Config = function() {
             2 : "大楼VIP"
         },
         coupon:{
-            seedImg:"http://www.gm4life.cn/guangming/weixin/static/img/banner/banner_market_shuiguo.jpg"
+            seedImg:"https://www.gm4life.cn/guangming/weixin/static/img/banner/banner_market_shuiguo.jpg"
         }
     },
     e = {};

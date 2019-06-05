@@ -47,7 +47,7 @@
         </li> 
 
         <li class="jgg_li" >
-          <a href="https://sugs.suning.com/zaW84LHE ">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=48">
             <div class="jgg_img">
               <img src="../static/img/jzbj.png" alt="tt">
             </div>
@@ -107,7 +107,7 @@
     </div>
     <div class="box3">
       <div class="inner3">
-        <a class="inner3-left fl" href="https://sugs.suning.com/zaW84LHE">
+        <a class="inner3-left fl" href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=48">
             <img src="../static/img/yfwzuoyi.png" alt="22">
         </a>
         <div class="inner3-right fr">

@@ -3,8 +3,8 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide>
         <div class="ban1">
-          <a href="https://wx.tuhu.cn/PromotionActivity/Coupon/a31f5a97-45b1-482e-8bed-8fbb352f0978.html">
-            <img src="../assets/img/72a93a79-564b-4e6c-8097-f1f59b410b38.jpg" alt="tt">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=48">
+            <img src="http://img.gm4life.cn/Fm9MJbhqV0rDn--aqLJ88_FBfAtd" alt="tt">
           </a>                    
         </div>
       </swiper-slide>

@@ -116,9 +116,9 @@
               <img src="../static/img/yfwyouyi.png" alt="22">
             </a>            
           </div>
-          <div class="inner3-right-bottom" @click="add()">
-            <a href="javascript:viod">
-              <img src="../static/img/yfwyouer.png" alt="22">
+          <div class="inner3-right-bottom" >
+            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=50">
+              <img src="http://img.e-shequ.com/Fo-WjQlx-2iPSbAQDmz4Rdh9KDji" alt="22">
             </a>            
           </div>
         </div>

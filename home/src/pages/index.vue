@@ -3,15 +3,29 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=48">
-            <img src="http://img.gm4life.cn/Fm9MJbhqV0rDn--aqLJ88_FBfAtd" alt="tt">
+          <a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
+            <img src="http://img.e-shequ.com/FrjrQx2hsdij3Ock7WeD-5UBtYbI" alt="tt">
           </a>                    
         </div>
       </swiper-slide>
        <swiper-slide>
         <div class="ban1">
-          <a href="#">
-            <img src="http://img.gm4life.cn/%E5%85%89%E6%98%8E%E6%82%A6%E7%94%9F%E6%B4%BB.jpg" alt="tt">
+          <a href="https://www.gm4life.cn/yueshop/index.php/wap/goods/goodssearchlist?sear_name=索河湾&shop_id=0">
+            <img src="http://img.e-shequ.com/FhSL2cn41S2sRQ-3vtOhWOH7vQRc" alt="tt">
+          </a>                    
+        </div> 
+      </swiper-slide>
+      <swiper-slide>
+        <div class="ban1">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=58">
+            <img src="http://img.e-shequ.com/FqD3amOLsg50FM0K2k5dTHhHm6h6" alt="tt">
+          </a>                    
+        </div> 
+      </swiper-slide>
+      <swiper-slide>
+        <div class="ban1">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=59">
+            <img src="http://img.e-shequ.com/FpdmTSuHvEObREou3uOzwY2bv7al" alt="tt">
           </a>                    
         </div> 
       </swiper-slide>
@@ -85,7 +99,7 @@
         </li>
 
         <li class="jgg_li"  @click="add()">
-          <a href="#">
+          <a href="javascript:void(0)">
             <div class="jgg_img">
               <img src="../static/img/zfw.png" alt="tt">
             </div>
@@ -112,13 +126,13 @@
         </a>
         <div class="inner3-right fr">
           <div class="inner3-right-top" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=34">
-              <img src="../static/img/yfwyouyi.png" alt="22">
+            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=62">
+              <img src="http://img.e-shequ.com/FieLHCXtJCS-zqtLv76_-mWPyxZZ" alt="22">
             </a>            
           </div>
           <div class="inner3-right-bottom" >
             <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=50">
-              <img src="http://img.e-shequ.com/Fo-WjQlx-2iPSbAQDmz4Rdh9KDji" alt="22">
+              <img src="http://img.e-shequ.com/FhtUwQrWIBOZrbgkrs5GW5-JBNZ-" alt="22">
             </a>            
           </div>
         </div>
@@ -252,7 +266,7 @@ export default {
 .inner25{width: 45px;height: 2px;background-color: #9c9c9c;right: 10px;top: 14px;}
 .box3{width: 100%;height: 201px;background-color: white;}
 .inner3{width: 92%;height: 199px;margin: 0 auto;}
-.inner3 img{width: 100%;/*height:199px; */height: 100%; margin: auto;}
+.inner3 img{width: 100%;/*height:199px; */height: 100%; margin: auto;border-radius: 8px;}
 .inner3-left{width: 50%;height: 199px;border: 1px solid rgba(0,0,0,0.39);border-radius: 8px;}
 .inner3-right{width: 44%;/*height:219px;*/}
 .inner3-right-top{width: 100%;height: 93px; border: 1px solid #9c9c9c;border-radius: 8px;}

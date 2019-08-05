@@ -3,6 +3,13 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide>
         <div class="ban1">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=74">
+            <img src="http://img.e-shequ.com/FtBU12kH7ambivCYmzh8X1CxCb68" alt="tt">
+          </a>                    
+        </div>
+      </swiper-slide>
+      <swiper-slide>
+        <div class="ban1">
           <a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
             <img src="http://img.e-shequ.com/FrjrQx2hsdij3Ock7WeD-5UBtYbI" alt="tt">
           </a>                    
@@ -81,11 +88,11 @@
 
 
         <li class="jgg_li">
-          <a href="https://wx.tuhu.cn">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=61">
             <div class="jgg_img">
-              <img src="../assets/img/20.png" alt="tt">
+              <img src="../assets/img/e89789b1-7aaf-4493-b95c-56be4146b93c.jpg" alt="tt">
             </div>
-            <span>途虎养车</span>
+            <span>凹凸出行</span>
           </a>
         </li> 
        

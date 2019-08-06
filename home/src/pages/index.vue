@@ -133,8 +133,8 @@
         </a>
         <div class="inner3-right fr">
           <div class="inner3-right-top" >
-            <a href="https://www.gm4life.cn/yueshop/wap/ad/seven">
-              <img src="../assets/img/3f70bf93-37a8-4673-975f-16b8ecad4aab.jpg" alt="22">
+            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=62">
+              <img src="http://img.e-shequ.com/FieLHCXtJCS-zqtLv76_-mWPyxZZ" alt="22">
             </a>            
           </div>
           <div class="inner3-right-bottom" >

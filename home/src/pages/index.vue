@@ -3,8 +3,8 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=74">
-            <img src="http://img.e-shequ.com/FtBU12kH7ambivCYmzh8X1CxCb68" alt="tt">
+          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=80">
+            <img src="http://img.gm4life.cn/FuMaVUeQ8IRzbcESuJKM_rgxjUa7" alt="tt">
           </a>                    
         </div>
       </swiper-slide>

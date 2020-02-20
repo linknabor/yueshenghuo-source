@@ -3,8 +3,8 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=80">
-            <img src="http://img.gm4life.cn/FuMaVUeQ8IRzbcESuJKM_rgxjUa7" alt="tt">
+          <a href="https://www.gm4life.cn/yueshop/index.php/wap/goods/goodssearchlist?sear_name=%E5%8F%B2%E5%AF%86%E6%96%AF&shop_id=0">
+            <img src="http://img.e-shequ.cn/FoqT8aDxkF5rmKiS2lk2EvRaeZOD" alt="tt">
           </a>                    
         </div>
       </swiper-slide>
@@ -133,8 +133,8 @@
         </a>
         <div class="inner3-right fr">
           <div class="inner3-right-top" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=62">
-              <img src="http://img.e-shequ.com/FieLHCXtJCS-zqtLv76_-mWPyxZZ" alt="22">
+            <a href="https://www.gm4life.cn/yueshop/index.php/wap/goods/goodssearchlist?sear_name=%E5%8F%B2%E5%AF%86%E6%96%AF&shop_id=0">
+              <img src="http://img.e-shequ.cn/FuKV1JwmAU42KXYrvoZDcM7qmmtZ" alt="22">
             </a>            
           </div>
           <div class="inner3-right-bottom" >

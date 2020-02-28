@@ -10,8 +10,8 @@
       </swiper-slide>
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
-            <img src="http://img.e-shequ.com/FrjrQx2hsdij3Ock7WeD-5UBtYbI" alt="tt">
+          <a href="https://weixin.dajingxiapp.com/#/?sellId=OiVUaYtkN7V40sPaK4oPZfJcN1YrIb0H">
+            <img src="http://img.e-shequ.cn/FnKZQz0R3jFn-iIAuIwpDH-vond4" alt="tt">
           </a>                    
         </div>
       </swiper-slide>

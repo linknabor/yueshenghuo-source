@@ -138,8 +138,8 @@
             </a>            
           </div>
           <div class="inner3-right-bottom" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=50">
-              <img src="http://img.e-shequ.com/FhtUwQrWIBOZrbgkrs5GW5-JBNZ-" alt="22">
+            <a href="https://weixin.dajingxiapp.com/#/?sellId=OiVUaYtkN7V40sPaK4oPZfJcN1YrIb0H">
+              <img src="http://img.e-shequ.cn/FokCgaycUqrDUXcsiy7gKi7RCi2X" alt="22">
             </a>            
           </div>
         </div>

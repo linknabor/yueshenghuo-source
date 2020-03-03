@@ -10,7 +10,7 @@
       </swiper-slide>
       <swiper-slide>
         <div class="ban1">
-          <a href="https://weixin.dajingxiapp.com/#/?sellId=OiVUaYtkN7V40sPaK4oPZfJcN1YrIb0H">
+          <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
             <img src="http://img.e-shequ.cn/FnKZQz0R3jFn-iIAuIwpDH-vond4" alt="tt">
           </a>                    
         </div>
@@ -138,8 +138,8 @@
             </a>            
           </div>
           <div class="inner3-right-bottom" >
-            <a href="https://weixin.dajingxiapp.com/#/?sellId=OiVUaYtkN7V40sPaK4oPZfJcN1YrIb0H">
-              <img src="http://img.e-shequ.cn/FokCgaycUqrDUXcsiy7gKi7RCi2X" alt="22">
+            <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
+              <img src="http://img.e-shequ.cn/FpB0MoY_q4suApjlJ7wSAM73xll-" alt="22">
             </a>            
           </div>
         </div>

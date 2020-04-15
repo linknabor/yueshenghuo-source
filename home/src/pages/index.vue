@@ -10,8 +10,8 @@
       </swiper-slide>
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
-            <img src="http://img.e-shequ.com/FrjrQx2hsdij3Ock7WeD-5UBtYbI" alt="tt">
+          <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
+            <img src="http://img.e-shequ.cn/FnKZQz0R3jFn-iIAuIwpDH-vond4" alt="tt">
           </a>                    
         </div>
       </swiper-slide>
@@ -133,13 +133,13 @@
         </a>
         <div class="inner3-right fr">
           <div class="inner3-right-top" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=62">
-              <img src="http://img.e-shequ.com/FieLHCXtJCS-zqtLv76_-mWPyxZZ" alt="22">
+            <a href="https://www.gm4life.cn/yueshop/index.php/wap/goods/goodssearchlist?sear_name=%E5%8F%B2%E5%AF%86%E6%96%AF&shop_id=0">
+              <img src="http://img.e-shequ.cn/FuKV1JwmAU42KXYrvoZDcM7qmmtZ" alt="22">
             </a>            
           </div>
           <div class="inner3-right-bottom" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=50">
-              <img src="http://img.e-shequ.com/FhtUwQrWIBOZrbgkrs5GW5-JBNZ-" alt="22">
+            <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
+              <img src="http://img.e-shequ.cn/FpB0MoY_q4suApjlJ7wSAM73xll-" alt="22">
             </a>            
           </div>
         </div>

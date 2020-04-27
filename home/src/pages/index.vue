@@ -10,8 +10,8 @@
       </swiper-slide>
       <swiper-slide>
         <div class="ban1">
-          <a href="https://www.gm4life.cn/guangming/weixin/home/index.html?state=123#/">
-            <img src="http://img.e-shequ.com/FrjrQx2hsdij3Ock7WeD-5UBtYbI" alt="tt">
+          <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
+            <img src="http://img.e-shequ.cn/FnKZQz0R3jFn-iIAuIwpDH-vond4" alt="tt">
           </a>                    
         </div>
       </swiper-slide>
@@ -138,8 +138,8 @@
             </a>            
           </div>
           <div class="inner3-right-bottom" >
-            <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=50">
-              <img src="http://img.e-shequ.com/FhtUwQrWIBOZrbgkrs5GW5-JBNZ-" alt="22">
+            <a href="https://weixin.dajingxiapp.com/#/?sellId=YEEv7Z1H3Y7h3PFFahtyIwmgMgvH1W1W">
+              <img src="http://img.e-shequ.cn/FpB0MoY_q4suApjlJ7wSAM73xll-" alt="22">
             </a>            
           </div>
         </div>
@@ -168,12 +168,18 @@
 			</a>
 		</dd>
     	<dd id="buttom_classify">
-			<a href="http://wuye.gm4life.cn/wangdu/weixin/wuye/index.html?state=123#/">
+			<a :href="'http://wuye.gm4life.cn/wangdu/weixin/wuye/index.html?openid=' + openid + '#/'">
 				<div class="nav-b5-relative">
 					<img src="../static/imgs/shequ.png"/>
 					<span>悦社区</span>
 				</div>
 			</a>
+      <!-- <a :href="'https://test.e-shequ.com/wangdu/weixin/wuye/index.html?openid='+openid+'#/'">
+				<div class="nav-b5-relative"> 
+					<img src="../static/imgs/shequ.png"/>
+					<span>悦社区</span>
+				</div>
+			</a> -->
 		</dd>
     	<dd id="buttom_classify">
 			<a href="https://www.gm4life.cn/yueshop/wap/member.html">
@@ -211,28 +217,29 @@ export default {
         },
         loop: true,
       },
+      openid:'',
     }
   },
   created(){
     vm = this;
   },
   mounted() {
+      // let url1 = '/initSession4Test/8559';
+      // vm.receiveData.getData(vm,url1,'data1',function(){
+        
+      // })
+
      let n = "GET",
         a = "userInfo",
         i = null,
         e = function(n) {
-          console.log(JSON.stringify(n));
+          vm.openid=n.result.openid;
+          // window.localStorage.setItem('extraOpenId',n.result.openid);
         },
         r = function() {     
         };
       this.common.invokeApi(n, a, i, null, e, r);
-      this.common.initWechat(['onMenuShareTimeline','onMenuShareAppMessage']);
-
-        // let url1 = '/initSession4Test/105';
-        // vm.receiveData.getData(vm,url1,'data1',function(){
-          
-        // })
-       
+      this.common.initWechat(['onMenuShareTimeline','onMenuShareAppMessage']);     
   },
   methods: {
     add() {

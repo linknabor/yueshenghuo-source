@@ -1,17 +1,18 @@
 import wx from 'weixin-js-sdk';
 var MasterConfig = function() {
     var t = {
+        // baseUrl: 'https://test.e-shequ.com/guangming/wechat/hexie/wechat/',
         baseUrl: "https://www.gm4life.cn/guangming/wechat/hexie/wechat/",
         basePageUrl:"https://www.gm4life.cn/guangming/weixin/",
         payPageFolder:"https://www.gm4life.cn/pay/",
         payPageSuffix:"wangdu",
         appId: "wx5b1a7c252c3cbc26",
-
+        // appId: "wxa48ca61b68163483",
         oauthUrl: "http://open.weixin.qq.com/connect/oauth2/authorize?",
         oauthUrlPostFix:"&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect",
         oauthUrlPostSilent:"&response_type=code&scope=snsapi_base&state=123#wechat_redirect",
         bindAppId:"wx5b1a7c252c3cbc26",
-        
+        // bindAppId:"wxa48ca61b68163483",
         baidu_map_key:"RUWUgrEEF5VjoaWsstMMZwOD",
         shop_name: "光明",
 

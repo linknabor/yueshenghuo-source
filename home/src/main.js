@@ -43,7 +43,7 @@ var axiosInstance = axios.create({
 
   },
   baseURL: 'https://www.gm4life.cn/guangming/wechat/hexie/wechat/',
-
+  // baseURL: 'https://test.e-shequ.com/wangdu/wechat/hexie/wechat/',
   withCredentials:true,
   transformResponse: [function (data) {//数据转换
     return data;

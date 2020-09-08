@@ -58,8 +58,8 @@
           </a>
         </li>
 
-        <li class="jgg_li" @click="weixiu()" >
-          <a href="javascript:void(0)">
+        <li class="jgg_li">
+          <a href="https://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=76">
             <div class="jgg_img">
               <img src="../static/img/jdwx.png" alt="tt">
             </div>
@@ -68,7 +68,7 @@
         </li> 
 
         <li class="jgg_li" >
-          <a href="https://www.gm4life.cn/yueshop/wap/shop/index?shop_id=48">
+          <a href="https://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=82">
             <div class="jgg_img">
               <img src="../static/img/jzbj.png" alt="tt">
             </div>
@@ -245,9 +245,6 @@ export default {
     add() {
             MessageBox('该功能暂未开放','尽请期待!');
         },
-        weixiu(){
-          MessageBox('该功能暂未开放','尽请期待!');
-        }
   },
   computed:{
     swiper(){

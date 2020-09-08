@@ -59,7 +59,7 @@
         </li>
 
         <li class="jgg_li">
-          <a href="https://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=76">
+          <a href="https://www.gm4life.cn/yueshop/wap/goods/goodslist.html?category_id=80">
             <div class="jgg_img">
               <img src="../static/img/jdwx.png" alt="tt">
             </div>
